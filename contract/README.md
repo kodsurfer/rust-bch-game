@@ -1,0 +1,1 @@
+Inspired by "Rusty checkers"
